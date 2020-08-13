@@ -1,7 +1,7 @@
 # Find-the-Github-user
 A web app using the GitHub API that allows you to find GitHub users by searching their username. It was mainly developed using JavaScript.
 
-Viewable on here https://my-weather-project.netlify.app/
+Viewable on here https://find-the-github-user.netlify.app
 
 # Technologies Used
 
